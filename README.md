@@ -2,14 +2,15 @@
 
 Computer Engineer | M.Sc. Student in AI | Data Scientist
 
-<br><br>🔭 **Currently**: AI Researcher at Conect2AI (UFRN) and Blockchain Developer at Descarbonize.ai (UFRN).
-<br>🧠 **Expertise:** Machine Learning, Time Series, NLP, Computer Vision and Data Analytics and Architecture.
-<br>🔗 **Web3:** Experience with Hyperledger Besu and Solidity for data security.
-<br>🚀 **Learning:** Diving deep into MLOps, AI Agents and LLMOps.
-<br><br>📫 **Reach me:** miguel.amaral.111@ufrn.edu.br
+- 🔭 **Currently**: AI Researcher at Conect2AI (UFRN) and Blockchain Developer at Descarbonize.ai (UFRN).
+- 🧠 **Expertise:** Machine Learning, Time Series, NLP, Computer Vision and Data Analytics and Architecture.
+- 🔗 **Web3:** Experience with Hyperledger Besu and Solidity for data security.
+- 🚀 **Learning:** Diving deep into MLOps, AI Agents and LLMOps.
+- 📫 **Reach me:** miguel.amaral.111@ufrn.edu.br
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/migueleuripedes) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@miguel.amaral.111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguel.amaral.111@ufrn.edu.br) 
+<br><br>
 
 # 💻 Tech Stack:
 
