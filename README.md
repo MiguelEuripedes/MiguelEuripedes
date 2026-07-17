@@ -5,7 +5,7 @@ Computer Engineer | M.Sc. Student in AI | Data Scientist
 - 🔭 **Currently**: AI Researcher at Conect2AI (UFRN) and Blockchain Developer at Descarbonize.ai (UFRN).
 - 🧠 **Expertise:** Machine Learning, Time Series, NLP, Computer Vision and Data Analytics and Architecture.
 - 🔗 **Web3:** Experience with Hyperledger Besu and Solidity for data security.
-- 🚀 **Learning:** Diving deep into MLOps, AI Agents and LLMOps.
+- 🚀 **Learning:** Diving deep into Agentic AI.
 - 📫 **Reach me:** miguel.amaral.111@ufrn.edu.br
 
 ### 🌐 Socials:
