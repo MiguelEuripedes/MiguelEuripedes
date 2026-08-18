@@ -1,6 +1,6 @@
 # 👋 Hello! I'm **Miguel Euripedes**
 
-Computer Engineer | M.Sc. Student in AI | Data Scientist
+Computer Engineer | PhD Student in AI | Data Scientist
 
 - 🔭 **Currently**: AI Researcher at Conect2AI (UFRN) and Blockchain Developer at Descarbonize.ai (UFRN).
 - 🧠 **Expertise:** Machine Learning, Time Series, NLP, Computer Vision and Data Analytics and Architecture.
